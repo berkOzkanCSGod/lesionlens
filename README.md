@@ -30,7 +30,7 @@ Our foremost goal is to reduce the time a doctor needs to spend examining a pati
 ## 💡 Problem to Be Solved
 
 As we observed first-hand, doctors are usually under immense pressure while performing the delicate tasks of examining patients. This tool will release some of the burden as it will automate some parts of the diagnosis process thus enabling the doctor to make better diagnosis faster and with more confidence.
-
+<!--
 ## ✨ Selling Points
 
 TODO
@@ -42,7 +42,7 @@ TODO
 ## 🚀 Features
 
 TODO
-
+-->
 ### 📊 [Track our progress here](https://wirehaired-chess-bd5.notion.site/LesionLens-Final-Year-Project-2063c963e82e46d2a243154cef256844?pvs=74)
 
 ## 👥 Team members:
@@ -61,10 +61,7 @@ TODO
 </table>
 
 
-# LesionLens
-Parent repo for the LesionLens project
-
-## Links
+This is the parent repo for the LesionLens project. Learn more at these links:
 - [Project Website](https://scorpia2004.github.io/LesionLensWeb/)
 
 - [API](https://github.com/berkOzkanCSGod/lesionlens-api)
