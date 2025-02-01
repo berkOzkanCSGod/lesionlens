@@ -67,3 +67,5 @@ This is the parent repo for the LesionLens project. Learn more at these links:
 - [API](https://github.com/berkOzkanCSGod/lesionlens-api)
 
 - [ML](https://github.com/berkOzkanCSGod/lesionlens-ml)
+
+- [UI](https://github.com/berkOzkanCSGod/lesionlens-ui)
