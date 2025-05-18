@@ -1,6 +1,6 @@
 <div style="text-align: center;">
   <div align="center">
-    <img src="logo.png" alt="Logo" classname="main-logo" style="width:200px;"/>
+    <img src="logo_text.png" alt="Logo" classname="main-logo" style="width:200px;"/>
   </div>
   <h1 align="center"><a href="https://scorpia2004.github.io/LesionLensWeb/">LesionLens</a></h1>
 </div>
