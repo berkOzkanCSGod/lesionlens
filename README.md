@@ -2,6 +2,10 @@
   <div align="center">
     <img src="logo_text.png" alt="Logo" classname="main-logo" style="width:200px;"/>
   </div>
+
+https://github.com/user-attachments/assets/df966967-e0f3-4af6-8744-b19fcec92986
+
+
   <h1 align="center"><a href="https://scorpia2004.github.io/LesionLensWeb/">LesionLens</a></h1>
 </div>
 <!--
